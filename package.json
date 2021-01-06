@@ -57,7 +57,7 @@
     "@types/node": "^10.5.2",
     "@types/winston": "^2.3.9",
     "@types/ws": "^5.1.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.1",
     "class-sanitizer": "^0.0.5",
     "class-transformer": "^0.1.9",
