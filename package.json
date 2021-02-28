@@ -63,7 +63,7 @@
     "class-transformer": "^0.1.9",
     "class-validator": "^0.8.5",
     "dotenv": "^6.0.0",
-    "fastify": "^1.8.0",
+    "fastify": "^2.15.1",
     "fastify-formbody": "^2.0.0",
     "fastify-swagger": "^0.12.0",
     "hashids": "^1.1.4",
